@@ -38,7 +38,7 @@ public class SpringMongodbApplication {
                     email,
                     Gender.MALE,
                     address,
-                    List.of("CS", "Math"),
+                    List.of("CS", "Math", "Tst"),
                     BigDecimal.TEN,
                     LocalDateTime.now()
             );
